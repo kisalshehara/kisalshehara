@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kisalshehara" alt="kisalshehara" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.cabeska.lk](www.cabeska.lk)
+- 👨‍💻 All of my projects are available at [www.cabeskagroup.com](www.cabeskagroup.com)
 
 - 📫 How to reach me **kisal@cabeska.lk**
 
